@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693600109497",
+    "project_id": "challangechap6-fikrihaikal",
+    "storage_bucket": "challangechap6-fikrihaikal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693600109497:android:84f24b309c73cb3394ac68",
+        "android_client_info": {
+          "package_name": "com.example.challangechap6_fikrihaikal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693600109497-jk750ei6bi1s4jif7lmjhoqvspoeajjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0iscPrpKjuIBiTIVEomIBnqixTMFRISM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693600109497-jk750ei6bi1s4jif7lmjhoqvspoeajjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

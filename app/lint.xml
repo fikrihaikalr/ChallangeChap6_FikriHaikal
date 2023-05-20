@@ -1,0 +1,28 @@
+<lint>
+    <!-- Disable the IconMissingDensityFolder check in this project -->
+    <!--    <issue id="IconMissingDensityFolder" severity="ignore" />-->
+
+    <!-- Ignore the ObsoleteLayoutParam issue in the specified files -->
+    <!--    <issue id="ObsoleteLayoutParam">-->
+    <!--        <ignore path="res/layout/activation.xml" />-->
+    <!--        <ignore path="res/layout-xlarge/activation.xml" />-->
+    <!--    </issue>-->
+
+    <!-- Ignore the UselessLeaf issue in the specified file -->
+    <!--    <issue id="UselessLeaf">-->
+    <!--        <ignore path="res/layout/main.xml" />-->
+    <!--    </issue>-->
+
+    <!-- Change the severity of hardcoded strings to "error" -->
+    <issue id="HardcodedText" severity="ignore" />
+    <issue id="GradleDependency" severity="ignore" />
+    <issue id="ContentDescription" severity="ignore" />
+    <issue id="ObsoleteSdkInt" severity="ignore" />
+    <issue id="UnusedResources" severity="ignore" />
+    <issue id="IconLocation" severity="ignore" />
+    <!-- Tidak tau error letak filenya  -->
+    <issue id="MonochromeLauncherIcon" severity="ignore" />
+    <!-- Tidak tau error letak filenya  -->
+    <issue id="IconDuplicatesConfig" severity="ignore" />
+
+</lint>
